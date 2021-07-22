@@ -1,0 +1,19 @@
+body
+{
+    padding: 0px;
+    margin:0px;
+    overflow:hidden;
+    
+    /*color: white;
+    background-color: blueviolet;*/
+}
+
+.myCanvas
+{
+    width: 700px;
+    height:350px;
+    margin-top:15%;
+    margin-left: 20%;
+    border:2px solid green;
+}
+
