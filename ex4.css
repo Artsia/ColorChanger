@@ -3,17 +3,26 @@ body
     padding: 0px;
     margin:0px;
     overflow:hidden;
-    
-    /*color: white;
-    background-color: blueviolet;*/
+    color: white;
+    background-color: light-green;
 }
 
-.myCanvas
+.Container
+{
+    display:flex;
+}
+
+.Container .myCanvas
 {
     width: 700px;
     height:350px;
     margin-top:15%;
     margin-left: 20%;
-    border:2px solid green;
+    border:3px solid black;
+}
+
+.Container button
+{
+    
 }
 
